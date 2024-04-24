@@ -4,14 +4,14 @@ Libraries:
 
     pandas: Data manipulation and analysis
     matplotlib & seaborn: Data visualization
-    (Optional) NumPy: Numerical computations
+    NumPy: Numerical computations
 
 Data Cleaning and Preprocessing:
 
     Import Libraries: Import necessary libraries using import statements.
     Load Data: Use pandas.read_csv or pandas.read_json to load the data depending on the format.
     Explore Data: Get an overview of the data using df.head(), df.info(), and descriptive statistics methods like df.describe().
-    Handle Missing Values: Identify and address missing values using techniques like imputation or deletion (if appropriate).
+    Handle Missing Values: Identify and address missing values using techniques like imputation or deletion.
     Data Cleaning: Clean and format data as needed (e.g., standardize date formats, convert currencies).
 
 Exploratory Data Analysis (EDA):
