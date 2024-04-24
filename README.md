@@ -1,12 +1,5 @@
 This project explores esports game earnings data to uncover insights into game popularity, genre trends, and top earners.
 
-Data Acquisition:
-
-    Source: We'll utilize a publicly available esports earnings dataset. Some potential sources include:
-        Kaggle: https://www.kaggle.com/rankirsh/esports-earnings/code
-        ESports Earnings: https://www.esportsearnings.com/
-    Download: Download the data in a format compatible with Python (e.g., CSV, JSON).
-
 Libraries:
 
     pandas: Data manipulation and analysis
